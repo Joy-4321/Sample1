@@ -1,2 +1,2 @@
 # Sample1
-First challenge
+First challenge well done!
